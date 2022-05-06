@@ -1,0 +1,1 @@
+# schoola-management
